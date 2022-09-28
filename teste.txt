@@ -2,3 +2,4 @@ Testando repositório
 Arquivo modificado
 Arquivo modificado clone
 Arquivo alterado no 1-Branch
+Arquivo alterado no 1-Branch p/ master
