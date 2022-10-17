@@ -15,3 +15,6 @@ _um **texto** combinado_
 1. Cadastro de Clientes
 2. Cadastro de Forneçedores
 3. Relatórios
+
+### Imagem local
+![Foto](Imagem/baby.png)
