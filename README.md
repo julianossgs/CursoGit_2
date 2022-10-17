@@ -21,3 +21,16 @@ _um **texto** combinado_
 
 ### Imagem externa
 ![Logo Udemy](https://www.google.com/url?sa=i&url=https%3A%2F%2Feconomictimes.indiatimes.com%2Ftopic%2Fudemy&psig=AOvVaw1ZzAaJEI3IC4Y7sna9rnA2&ust=1666117780702000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCOCnhcfy5_oCFQAAAAAdAAAAABAJ)
+
+## Links interessantes
+[Google](https://www.google.com)
+
+[https://www.yahoo.com.br](https://www.yahoo.com.br)
+
+### Código
+
+```javascript
+function soma(a,b){
+    return a + b;
+}
+```
